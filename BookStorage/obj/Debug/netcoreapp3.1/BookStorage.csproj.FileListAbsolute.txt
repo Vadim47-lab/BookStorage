@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\bin\Debug\netcoreapp3.1\BookStorage.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\BookStorage\BookStorage\obj\Debug\netcoreapp3.1\BookStorage.genruntimeconfig.cache
